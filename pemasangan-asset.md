@@ -1,4 +1,4 @@
-# 🎨 Manajemen & Pemasangan Asset
+# 🎨 Manajemen & Pemasangan Assetssssssssssssssssssssssss
 
 Panduan ini mencakup cara mengelola media dan aset visual agar website WordPress tetap ringan dan optimal.
 
